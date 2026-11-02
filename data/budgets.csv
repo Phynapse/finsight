@@ -1,0 +1,149 @@
+period,quarter,department,category,budget_amount,actual_amount,variance_amount,variance_pct,utilisation_pct
+2024-01,2024-Q1,Corporate,Depreciation & Amortization,94566.76,87600.00,-6966.76,-7.37,92.63
+2024-01,2024-Q1,Corporate,Stock-Based Compensation,33552.52,32065.98,-1486.54,-4.43,95.57
+2024-01,2024-Q1,General & Administrative,Executive & Administrative Personnel,247155.31,238378.38,-8776.93,-3.55,96.45
+2024-01,2024-Q1,General & Administrative,Facilities & Office,169977.87,159463.09,-10514.78,-6.19,93.81
+2024-01,2024-Q1,General & Administrative,Insurance & Compliance,86237.30,76666.66,-9570.64,-11.10,88.90
+2024-01,2024-Q1,General & Administrative,Professional Services,91231.83,88064.51,-3167.32,-3.47,96.53
+2024-01,2024-Q1,Research & Development,Cloud Infrastructure,150387.91,130250.90,-20137.01,-13.39,86.61
+2024-01,2024-Q1,Research & Development,Engineering Personnel,413921.69,389319.73,-24601.96,-5.94,94.06
+2024-01,2024-Q1,Research & Development,Software & Tools,55613.94,55000.00,-613.94,-1.10,98.90
+2024-01,2024-Q1,Sales & Marketing,Marketing & Advertising,229093.47,192413.79,-36679.68,-16.01,83.99
+2024-01,2024-Q1,Sales & Marketing,Sales Personnel,227510.08,212610.17,-14899.91,-6.55,93.45
+2024-01,2024-Q1,Sales & Marketing,Travel & Events,60482.81,54000.00,-6482.81,-10.72,89.28
+2024-02,2024-Q1,Corporate,Depreciation & Amortization,93962.19,87600.00,-6362.19,-6.77,93.23
+2024-02,2024-Q1,Corporate,Stock-Based Compensation,31932.11,32400.00,467.89,1.47,101.47
+2024-02,2024-Q1,General & Administrative,Executive & Administrative Personnel,265712.76,240810.81,-24901.95,-9.37,90.63
+2024-02,2024-Q1,General & Administrative,Facilities & Office,160110.72,159463.09,-647.63,-0.40,99.60
+2024-02,2024-Q1,General & Administrative,Insurance & Compliance,84478.12,76666.67,-7811.45,-9.25,90.75
+2024-02,2024-Q1,General & Administrative,Professional Services,62204.60,64354.84,2150.24,3.46,103.46
+2024-02,2024-Q1,Research & Development,Cloud Infrastructure,152944.60,131666.67,-21277.93,-13.91,86.09
+2024-02,2024-Q1,Research & Development,Engineering Personnel,420289.45,393333.33,-26956.12,-6.41,93.59
+2024-02,2024-Q1,Research & Development,Software & Tools,57364.03,55000.00,-2364.03,-4.12,95.88
+2024-02,2024-Q1,Sales & Marketing,Marketing & Advertising,220529.75,184703.45,-35826.30,-16.25,83.75
+2024-02,2024-Q1,Sales & Marketing,Sales Personnel,228557.20,212610.17,-15947.03,-6.98,93.02
+2024-02,2024-Q1,Sales & Marketing,Travel & Events,64744.44,57600.00,-7144.44,-11.03,88.97
+2024-03,2024-Q1,Corporate,Depreciation & Amortization,92228.31,87600.00,-4628.31,-5.02,94.98
+2024-03,2024-Q1,Corporate,Stock-Based Compensation,32762.46,32734.02,-28.44,-0.09,99.91
+2024-03,2024-Q1,General & Administrative,Executive & Administrative Personnel,256035.49,240810.81,-15224.68,-5.95,94.05
+2024-03,2024-Q1,General & Administrative,Facilities & Office,172205.50,161073.82,-11131.68,-6.46,93.54
+2024-03,2024-Q1,General & Administrative,Insurance & Compliance,83490.60,76666.67,-6823.93,-8.17,91.83
+2024-03,2024-Q1,General & Administrative,Professional Services,55737.45,57580.65,1843.20,3.31,103.31
+2024-03,2024-Q1,Research & Development,Cloud Infrastructure,148530.21,133082.43,-15447.78,-10.40,89.60
+2024-03,2024-Q1,Research & Development,Engineering Personnel,445167.86,397346.94,-47820.92,-10.74,89.26
+2024-03,2024-Q1,Research & Development,Software & Tools,57649.72,55000.00,-2649.72,-4.60,95.40
+2024-03,2024-Q1,Sales & Marketing,Field Enablement Rollout,145000.00,0.00,-145000.00,-100.00,0.00
+2024-03,2024-Q1,Sales & Marketing,Marketing & Advertising,273079.43,224482.76,-48596.67,-17.80,82.20
+2024-03,2024-Q1,Sales & Marketing,Sales Personnel,223374.69,214779.66,-8595.03,-3.85,96.15
+2024-03,2024-Q1,Sales & Marketing,Travel & Events,78446.46,68400.00,-10046.46,-12.81,87.19
+2024-04,2024-Q2,Corporate,Depreciation & Amortization,101545.37,100000.00,-1545.37,-1.52,98.48
+2024-04,2024-Q2,Corporate,Stock-Based Compensation,33097.55,33000.00,-97.55,-0.29,99.71
+2024-04,2024-Q2,General & Administrative,Executive & Administrative Personnel,267524.69,243361.20,-24163.49,-9.03,90.97
+2024-04,2024-Q2,General & Administrative,Facilities & Office,168556.35,161666.66,-6889.69,-4.09,95.91
+2024-04,2024-Q2,General & Administrative,Insurance & Compliance,85430.91,77333.34,-8097.57,-9.48,90.52
+2024-04,2024-Q2,General & Administrative,Professional Services,76619.50,76909.09,289.59,0.38,100.38
+2024-04,2024-Q2,Research & Development,Cloud Infrastructure,154104.84,133877.55,-20227.29,-13.13,86.87
+2024-04,2024-Q2,Research & Development,Engineering Personnel,434459.72,402290.97,-32168.75,-7.40,92.60
+2024-04,2024-Q2,Research & Development,Software & Tools,60066.94,56000.00,-4066.94,-6.77,93.23
+2024-04,2024-Q2,Sales & Marketing,Marketing & Advertising,278709.99,237288.13,-41421.86,-14.86,85.14
+2024-04,2024-Q2,Sales & Marketing,Sales Personnel,231620.90,220183.95,-11436.95,-4.94,95.06
+2024-04,2024-Q2,Sales & Marketing,Travel & Events,69273.62,63852.46,-5421.16,-7.83,92.17
+2024-05,2024-Q2,Corporate,Depreciation & Amortization,107141.44,100000.00,-7141.44,-6.67,93.33
+2024-05,2024-Q2,Corporate,Stock-Based Compensation,33410.70,33333.33,-77.37,-0.23,99.77
+2024-05,2024-Q2,General & Administrative,Executive & Administrative Personnel,261975.63,245819.40,-16156.23,-6.17,93.83
+2024-05,2024-Q2,General & Administrative,Facilities & Office,160907.18,161666.67,759.49,0.47,100.47
+2024-05,2024-Q2,General & Administrative,Insurance & Compliance,83689.87,77333.33,-6356.54,-7.60,92.40
+2024-05,2024-Q2,General & Administrative,Professional Services,83829.17,81181.82,-2647.35,-3.16,96.84
+2024-05,2024-Q2,Research & Development,Cloud Infrastructure,141615.68,127416.67,-14199.01,-10.03,89.97
+2024-05,2024-Q2,Research & Development,Engineering Personnel,436225.02,406354.51,-29870.51,-6.85,93.15
+2024-05,2024-Q2,Research & Development,Software & Tools,56988.03,56000.00,-988.03,-1.73,98.27
+2024-05,2024-Q2,Sales & Marketing,Marketing & Advertising,286201.68,237288.14,-48913.54,-17.09,82.91
+2024-05,2024-Q2,Sales & Marketing,Sales Personnel,228708.44,222408.02,-6300.42,-2.75,97.25
+2024-05,2024-Q2,Sales & Marketing,Travel & Events,77409.15,67213.11,-10196.04,-13.17,86.83
+2024-06,2024-Q2,Corporate,Depreciation & Amortization,104177.94,100000.00,-4177.94,-4.01,95.99
+2024-06,2024-Q2,Corporate,Stock-Based Compensation,33797.47,33666.67,-130.80,-0.39,99.61
+2024-06,2024-Q2,General & Administrative,Executive & Administrative Personnel,265133.73,245819.40,-19314.33,-7.28,92.72
+2024-06,2024-Q2,General & Administrative,Facilities & Office,161702.25,161666.67,-35.58,-0.02,99.98
+2024-06,2024-Q2,General & Administrative,Insurance & Compliance,84012.02,77333.33,-6678.69,-7.95,92.05
+2024-06,2024-Q2,General & Administrative,Professional Services,78582.68,76909.09,-1673.59,-2.13,97.87
+2024-06,2024-Q2,Research & Development,Cloud Infrastructure,165575.73,139455.78,-26119.95,-15.78,84.22
+2024-06,2024-Q2,Research & Development,Developer Conference Sponsorship,90000.00,0.00,-90000.00,-100.00,0.00
+2024-06,2024-Q2,Research & Development,Engineering Personnel,450858.07,406354.52,-44503.55,-9.87,90.13
+2024-06,2024-Q2,Research & Development,Software & Tools,59828.75,56000.00,-3828.75,-6.40,93.60
+2024-06,2024-Q2,Sales & Marketing,Marketing & Advertising,271280.75,225423.73,-45857.02,-16.90,83.10
+2024-06,2024-Q2,Sales & Marketing,Sales Personnel,239119.48,222408.03,-16711.45,-6.99,93.01
+2024-06,2024-Q2,Sales & Marketing,Travel & Events,85495.54,73934.43,-11561.11,-13.52,86.48
+2024-07,2024-Q3,Corporate,Depreciation & Amortization,135068.42,126400.00,-8668.42,-6.42,93.58
+2024-07,2024-Q3,Corporate,Stock-Based Compensation,35089.48,33273.79,-1815.69,-5.17,94.83
+2024-07,2024-Q3,General & Administrative,Executive & Administrative Personnel,260459.52,250000.00,-10459.52,-4.02,95.98
+2024-07,2024-Q3,General & Administrative,Facilities & Office,146907.31,148000.00,1092.69,0.74,100.74
+2024-07,2024-Q3,General & Administrative,Insurance & Compliance,83867.33,77333.34,-6533.99,-7.79,92.21
+2024-07,2024-Q3,General & Administrative,Professional Services,97325.59,100434.78,3109.19,3.19,103.19
+2024-07,2024-Q3,Research & Development,Cloud Infrastructure,163632.24,140576.92,-23055.32,-14.09,85.91
+2024-07,2024-Q3,Research & Development,Engineering Personnel,436515.43,413333.34,-23182.09,-5.31,94.69
+2024-07,2024-Q3,Research & Development,Software & Tools,60149.24,56000.00,-4149.24,-6.90,93.10
+2024-07,2024-Q3,Sales & Marketing,Marketing & Advertising,310692.06,256363.64,-54328.42,-17.49,82.51
+2024-07,2024-Q3,Sales & Marketing,Sales Personnel,247915.53,228333.34,-19582.19,-7.90,92.10
+2024-07,2024-Q3,Sales & Marketing,Travel & Events,78419.43,71129.03,-7290.40,-9.30,90.70
+2024-08,2024-Q3,Corporate,Depreciation & Amortization,133218.31,126400.00,-6818.31,-5.12,94.88
+2024-08,2024-Q3,Corporate,Stock-Based Compensation,34165.68,33600.00,-565.68,-1.66,98.34
+2024-08,2024-Q3,General & Administrative,Executive & Administrative Personnel,266015.23,250000.00,-16015.23,-6.02,93.98
+2024-08,2024-Q3,General & Administrative,Facilities & Office,162684.59,160000.00,-2684.59,-1.65,98.35
+2024-08,2024-Q3,General & Administrative,Insurance & Compliance,83099.28,77333.33,-5765.95,-6.94,93.06
+2024-08,2024-Q3,General & Administrative,Professional Services,104514.85,106014.49,1499.64,1.43,101.43
+2024-08,2024-Q3,Research & Development,Cloud Infrastructure,165694.62,143333.33,-22361.29,-13.50,86.50
+2024-08,2024-Q3,Research & Development,Engineering Personnel,444131.41,413333.33,-30798.08,-6.93,93.07
+2024-08,2024-Q3,Research & Development,Software & Tools,58160.28,56000.00,-2160.28,-3.71,96.29
+2024-08,2024-Q3,Sales & Marketing,Marketing & Advertising,375052.75,313333.33,-61719.42,-16.46,83.54
+2024-08,2024-Q3,Sales & Marketing,Sales Personnel,244059.46,228333.33,-15726.13,-6.44,93.56
+2024-08,2024-Q3,Sales & Marketing,Travel & Events,75549.30,67741.94,-7807.36,-10.33,89.67
+2024-09,2024-Q3,Corporate,Depreciation & Amortization,135533.29,126400.00,-9133.29,-6.74,93.26
+2024-09,2024-Q3,Corporate,Stock-Based Compensation,35877.50,33926.21,-1951.29,-5.44,94.56
+2024-09,2024-Q3,General & Administrative,ERP Implementation Milestone 2,210000.00,0.00,-210000.00,-100.00,0.00
+2024-09,2024-Q3,General & Administrative,Executive & Administrative Personnel,272137.68,250000.00,-22137.68,-8.13,91.87
+2024-09,2024-Q3,General & Administrative,Facilities & Office,162317.46,160000.00,-2317.46,-1.43,98.57
+2024-09,2024-Q3,General & Administrative,Insurance & Compliance,82844.90,77333.33,-5511.57,-6.65,93.35
+2024-09,2024-Q3,General & Administrative,Professional Services,175122.39,178550.73,3428.34,1.96,101.96
+2024-09,2024-Q3,Research & Development,Cloud Infrastructure,164904.77,146089.75,-18815.02,-11.41,88.59
+2024-09,2024-Q3,Research & Development,Engineering Personnel,450706.78,413333.33,-37373.45,-8.29,91.71
+2024-09,2024-Q3,Research & Development,Software & Tools,51784.62,49200.00,-2584.62,-4.99,95.01
+2024-09,2024-Q3,Sales & Marketing,Marketing & Advertising,431484.88,370303.03,-61181.85,-14.18,85.82
+2024-09,2024-Q3,Sales & Marketing,Sales Personnel,249432.09,228333.33,-21098.76,-8.46,91.54
+2024-09,2024-Q3,Sales & Marketing,Travel & Events,80362.89,71129.03,-9233.86,-11.49,88.51
+2024-10,2024-Q4,Corporate,Depreciation & Amortization,113714.13,109200.00,-4514.13,-3.97,96.03
+2024-10,2024-Q4,Corporate,Stock-Based Compensation,29813.73,30318.75,505.02,1.69,101.69
+2024-10,2024-Q4,General & Administrative,Executive & Administrative Personnel,267259.17,253327.87,-13931.30,-5.21,94.79
+2024-10,2024-Q4,General & Administrative,Facilities & Office,178547.98,177341.14,-1206.84,-0.68,99.32
+2024-10,2024-Q4,General & Administrative,Insurance & Compliance,214757.58,192851.07,-21906.51,-10.20,89.80
+2024-10,2024-Q4,General & Administrative,Professional Services,100031.98,97777.77,-2254.21,-2.25,97.75
+2024-10,2024-Q4,Research & Development,Cloud Infrastructure,185097.74,162169.49,-22928.25,-12.39,87.61
+2024-10,2024-Q4,Research & Development,Engineering Personnel,455615.30,432857.14,-22758.16,-5.00,95.00
+2024-10,2024-Q4,Research & Development,Software & Tools,63730.95,59333.34,-4397.61,-6.90,93.10
+2024-10,2024-Q4,Sales & Marketing,Marketing & Advertising,283503.13,245614.04,-37889.09,-13.36,86.64
+2024-10,2024-Q4,Sales & Marketing,Sales Personnel,243709.45,232696.08,-11013.37,-4.52,95.48
+2024-10,2024-Q4,Sales & Marketing,Travel & Events,60473.68,54850.75,-5622.93,-9.30,90.70
+2024-11,2024-Q4,Corporate,Depreciation & Amortization,113685.53,109200.00,-4485.53,-3.95,96.05
+2024-11,2024-Q4,Corporate,Stock-Based Compensation,30628.66,30607.50,-21.16,-0.07,99.93
+2024-11,2024-Q4,General & Administrative,Executive & Administrative Personnel,271531.26,255836.06,-15695.20,-5.78,94.22
+2024-11,2024-Q4,General & Administrative,Facilities & Office,183925.23,175585.28,-8339.95,-4.53,95.47
+2024-11,2024-Q4,General & Administrative,Insurance & Compliance,109764.17,101223.40,-8540.77,-7.78,92.22
+2024-11,2024-Q4,General & Administrative,Professional Services,74782.92,75555.56,772.64,1.03,101.03
+2024-11,2024-Q4,Research & Development,Cloud Infrastructure,179159.43,159050.85,-20108.58,-11.22,88.78
+2024-11,2024-Q4,Research & Development,Engineering Personnel,471333.25,441428.57,-29904.68,-6.34,93.66
+2024-11,2024-Q4,Research & Development,Software & Tools,63681.84,59333.33,-4348.51,-6.83,93.17
+2024-11,2024-Q4,Sales & Marketing,Marketing & Advertising,305914.86,257894.73,-48020.13,-15.70,84.30
+2024-11,2024-Q4,Sales & Marketing,Partner Incentive Accrual,120000.00,0.00,-120000.00,-100.00,0.00
+2024-11,2024-Q4,Sales & Marketing,Sales Personnel,250703.36,235000.00,-15703.36,-6.26,93.74
+2024-11,2024-Q4,Sales & Marketing,Travel & Events,65624.46,57462.69,-8161.77,-12.44,87.56
+2024-12,2024-Q4,Corporate,Depreciation & Amortization,114904.82,109200.00,-5704.82,-4.96,95.04
+2024-12,2024-Q4,Corporate,Stock-Based Compensation,33092.60,31473.75,-1618.85,-4.89,95.11
+2024-12,2024-Q4,General & Administrative,Executive & Administrative Personnel,265710.69,255836.07,-9874.62,-3.72,96.28
+2024-12,2024-Q4,General & Administrative,Facilities & Office,172945.65,172073.58,-872.07,-0.50,99.50
+2024-12,2024-Q4,General & Administrative,Insurance & Compliance,103234.47,96425.53,-6808.94,-6.60,93.40
+2024-12,2024-Q4,General & Administrative,Professional Services,67142.84,66666.67,-476.17,-0.71,99.29
+2024-12,2024-Q4,Research & Development,Cloud Infrastructure,157258.03,138779.66,-18478.37,-11.75,88.25
+2024-12,2024-Q4,Research & Development,Engineering Personnel,494927.14,445714.29,-49212.85,-9.94,90.06
+2024-12,2024-Q4,Research & Development,Software & Tools,63262.54,59333.33,-3929.21,-6.21,93.79
+2024-12,2024-Q4,Sales & Marketing,Marketing & Advertising,225005.47,196491.23,-28514.24,-12.67,87.33
+2024-12,2024-Q4,Sales & Marketing,Sales Personnel,261522.25,237303.92,-24218.33,-9.26,90.74
+2024-12,2024-Q4,Sales & Marketing,Travel & Events,71428.57,62686.56,-8742.01,-12.24,87.76

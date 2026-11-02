@@ -1,0 +1,21 @@
+[project]
+name = "finsight"
+version = "0.1.0"
+description = "Finance x AI financial intelligence: deterministic analytics with grounded explanations."
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["backend/tests"]
+pythonpath = ["backend"]
+addopts = "-q --strict-markers"
+filterwarnings = [
+    "error::DeprecationWarning:app.*",
+]
+
+[tool.coverage.run]
+branch = true
+source = ["backend/app"]
+
+[tool.coverage.report]
+show_missing = true
+skip_empty = true

@@ -1,0 +1,18 @@
+vendor_id,vendor_name,category,department,monthly_spend,total_spend_2024,transaction_count_2024,avg_transaction_amount,contract_type,contract_start,contract_end,status
+V-1001,Northwind Creative Agency,Marketing & Advertising,Sales & Marketing,134133.33,1609599.99,12,134133.33,retainer,2022-04-01,2026-03-31,active
+V-1002,Beacon Media Group,Marketing & Advertising,Sales & Marketing,74000.00,888000.01,12,74000.00,retainer,2023-01-01,2026-12-31,active
+V-1003,Signal Print & Out of Home,Marketing & Advertising,Sales & Marketing,37000.00,444000.00,12,37000.00,project,2023-07-01,2025-06-30,expiring
+V-1004,Meridian Payroll Services,Sales Personnel,Sales & Marketing,224583.33,2695000.00,12,224583.33,peo,2021-01-01,2026-12-31,active
+V-1005,Cascade Business Travel,Travel & Events,Sales & Marketing,44916.67,539000.00,12,44916.67,preferred_vendor,2022-09-01,2026-08-31,active
+V-1006,Harbor Conference Group,Travel & Events,Sales & Marketing,19250.00,231000.00,12,19250.00,preferred_vendor,2023-03-01,2026-02-28,active
+V-1007,Meridian Payroll Services,Engineering Personnel,Research & Development,412916.67,4955000.00,12,412916.67,peo,2021-01-01,2026-12-31,active
+V-1008,Nimbus Cloud Services,Cloud Infrastructure,Research & Development,105166.67,1262000.00,12,105166.67,committed_use,2022-01-01,2027-01-31,active
+V-1009,Atlas Data Platform,Cloud Infrastructure,Research & Development,35312.50,423750.00,12,35312.50,committed_use,2023-05-01,2026-05-31,active
+V-1010,Vertex Software Licensing,Software & Tools,Research & Development,33383.33,400600.00,12,33383.33,subscription,2022-06-01,2027-05-31,active
+V-1011,Toolstack SaaS,Software & Tools,Research & Development,22633.33,271600.00,12,22633.33,subscription,2024-02-01,2027-01-31,active
+V-1012,Meridian Payroll Services,Executive & Administrative Personnel,General & Administrative,247500.00,2970000.00,12,247500.00,peo,2021-01-01,2026-12-31,active
+V-1013,Whitlock & Associates LLP,Professional Services,General & Administrative,57958.33,695500.00,12,57958.33,retainer,2022-11-01,2026-10-31,active
+V-1014,Kestrel Advisory,Professional Services,General & Administrative,31208.33,374500.00,12,31208.33,project,2023-09-01,2026-08-31,active
+V-1015,Ironwood Property Services,Facilities & Office,General & Administrative,163166.67,1958000.00,12,163166.67,lease_related,2021-06-01,2029-05-31,active
+V-1016,Sentinel Risk Advisors,Insurance & Compliance,General & Administrative,62725.00,752700.00,12,62725.00,retainer,2022-01-01,2027-12-31,active
+V-1017,Redwood Workers Compensation,Insurance & Compliance,General & Administrative,27650.00,331800.00,12,27650.00,policy,2022-01-01,2027-12-31,active

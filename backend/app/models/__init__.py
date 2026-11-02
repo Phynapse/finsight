@@ -1,0 +1,51 @@
+"""Domain model layer: enums and the metric / dataset / analysis-type catalog."""
+
+from app.models.catalog import (
+    ANALYSIS_TYPE_CATALOG,
+    DATASET_CATALOG,
+    METRIC_CATALOG,
+    AnalysisTypeSpec,
+    DatasetSpec,
+    MetricSpec,
+    dataset_ids,
+    match_metric_in_text,
+    metrics_for_dataset,
+    resolve_analysis_type,
+    resolve_dataset,
+    resolve_metric,
+)
+from app.models.enums import (
+    AnalysisStatus,
+    AnalysisType,
+    ComparisonMode,
+    Currency,
+    Dimension,
+    Direction,
+    Granularity,
+    TransactionType,
+    Unit,
+)
+
+__all__ = [
+    "ANALYSIS_TYPE_CATALOG",
+    "AnalysisStatus",
+    "AnalysisType",
+    "AnalysisTypeSpec",
+    "ComparisonMode",
+    "Currency",
+    "DATASET_CATALOG",
+    "DatasetSpec",
+    "Dimension",
+    "Direction",
+    "Granularity",
+    "METRIC_CATALOG",
+    "MetricSpec",
+    "TransactionType",
+    "Unit",
+    "dataset_ids",
+    "match_metric_in_text",
+    "metrics_for_dataset",
+    "resolve_analysis_type",
+    "resolve_dataset",
+    "resolve_metric",
+]
